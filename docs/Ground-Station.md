@@ -2,6 +2,54 @@
 
 ## Documentos
 
+### Projeto Conceitual
+
+From what I can recall, there are a few number of requisites which should be emphasized to develop the ground-segment system:
+
+- Power consumption
+
+The power consumption depends on several factors, such as:
+
+- Antenna power rating:
+
+Consider that in the case of the Juno satellite’s mission, the output power of the satellite is on the scale of 200W, yet sufficient to carry all the results from scientific instruments.
+
+- Transmitter Power
+
+It can be estimated in terms of what kind of equipment we are developing (SSPA or TWTA), in case of a simple output power amplifier, 1-10kWh per day.
+
+- Operational Schedule (Transmission)
+
+Revisit time of 8times x 8 minutes = 64 minutes 
+
+Output power ⇒ 400 W * 1h * 30 days = 12 kWh / month
+
+- Cooling and support equipment.
+
+Depending on the frequency of operation, we can visualize a scenario of a ground station project.
+
+0 - Antenna Redundancy (to avoid any points of failure).
+
+1 - A rotator to adjust the antenna (elevation + azimuth)
+
+2 - LVB tracker (L Band module) 
+
+3 - QRZ: dictionary for amateur radios;
+
+4- Survey video to show where it will operate (the antenna, obstructions, horizon (LoS))
+
+5- Rent a permission to erect ham radio antenna (Homeowners Association rules US)
+
+6 - Antennas 
+
+- Customer’s Satellite frequency range.
+- Link budget Analysis
+
+## Otimizando a operação do sistema
+
+<a href="https://www.scielo.br/j/jatm/a/xnVCYy3kjfrsjRgftr55xJC/?lang=en" target="_blank"> Optimizing the communication capacity of a ground station Network</a>
+
+
 ### Orçamento
 
 #### Sistema de antenas
