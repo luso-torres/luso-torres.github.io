@@ -3,4 +3,6 @@
 Diagrama de funcionamento de um dispensador:
 
 
-![Diagrama](images/fluxograma_elet_soft.png)
+![Diagrama][def]
+
+[def]: images/fluxograma_elet_soft.png
