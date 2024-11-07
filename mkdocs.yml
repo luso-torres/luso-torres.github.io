@@ -26,6 +26,8 @@ theme:
       primary: teal
       accent: lime
 
+
+
 extra:
   social:
   - icon: fontawesome/brands/github-alt
@@ -42,10 +44,11 @@ markdown_extensions:
      generic: true
   - footnotes
   - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.mark
-  - attr_list
-
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 copyright:
   Copyright &copy 2024 <a href="https://github.com/luso-torres"  target="_blank" rel="noopener">Luso Torres</a>
 
