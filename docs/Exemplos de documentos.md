@@ -1,8 +1,7 @@
 # Exemplos de documentos
 
-<br>
-
-![Server Room](D:\luso-torres.github.io\images\Copy of Fluxograma Eletrônica_Software.pdf " Woman near servers")
 
 
+
+<iframe width="100%" height="800" src="D:\luso-torres.github.io\images\Copy of Fluxograma Eletrônica_Software.pdf">
 
