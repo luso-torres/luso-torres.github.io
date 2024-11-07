@@ -1,7 +1,7 @@
 # Exemplos de documentos
 
 
+<embed src="../images/Copy of Fluxograma Eletrônica_Software.pdf" type="application/pdf" width="600" height="400">
 
 
-<iframe width="100%" height="800" src="D:\luso-torres.github.io\images\Copy of Fluxograma Eletrônica_Software.pdf">
 
