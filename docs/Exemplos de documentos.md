@@ -1,7 +1,9 @@
 # Exemplos de documentos
 
 
-<embed src="../images/Copy of Fluxograma Eletrônica_Software.pdf" type="application/pdf" width="600" height="400">
+<a href="../images/fluxograma_elet_soft.pdf" target="_blank">Fluxograma Eletrônica Software</a>
+>
+<object data="../images/fluxograma_elet_soft.pdf" type="application/pdf" width="100%"> </object>
 
 
 
